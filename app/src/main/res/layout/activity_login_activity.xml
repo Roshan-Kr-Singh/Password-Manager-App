@@ -15,6 +15,7 @@
         android:fontFamily="sans-serif"
         android:text="PassCare"
         android:textAlignment="center"
+        android:textAllCaps="false"
         android:textSize="60sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
